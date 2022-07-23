@@ -1,5 +1,7 @@
 # Secret Contract Verifier
 
+Please use this repo to report any issues for the Secret Contract Verifier.
+
 - [API](https://github.com/digiline-io/secret-network-contract-verifier-api)
 - [Backend](https://github.com/digiline-io/secret-network-contract-verifier-backend)
 - [Database](https://github.com/digiline-io/secret-network-contract-verifier-database)
