@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:digiline-io/secret-contract-verifier-api.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:digiline-io/secret-network-contract-verifier-backend.git
+[submodule "database"]
+	path = database
+	url = git@github.com:digiline-io/secret-network-contract-verifier-database.git
